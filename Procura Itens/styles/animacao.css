@@ -1,0 +1,17 @@
+@keyframes letdown {
+    0% {
+        transform: translateY(500px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+@keyframes letright {
+    0% {
+        transform: translateX(500px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
