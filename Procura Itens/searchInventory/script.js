@@ -27,7 +27,6 @@ let imgs = [
     '<img src="../items/020205p076.png" id="item">',
 
 
-
 ]
 
 let dados = [
@@ -342,7 +341,7 @@ let dados = [
     // // C
     ['020207P015', 'PERFIL FIXACAO TAMPA HA/HF30', 'Bloco 8 - C1'],
     ['020207P011', 'PERFIL FIXACÃO TAMPA HA/HF20', 'Bloco 8 - C1'],
-    ['020204R120', 'REGUA LEDS PERIMETRAL 1166mm 15LEDs (O2)', 'Bloco 8 - C1'],
+    ['020204R121', 'REGUA LEDS PERIMETRAL 1166mm 15LEDs (O2)', 'Bloco 8 - C1'],
     ['020201P066', 'PUXADOR PRETO PORTA VN28RC EISENBAHN', 'Bloco 8 - C1'],
 
     // // D
